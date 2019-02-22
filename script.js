@@ -50,12 +50,12 @@ function setMode() {
 }
 
 function setModeNight() {
-   body.style.background = 'var(--primary)';
+   body.style.background = 'linear-gradient(var(--primary) 60%, var(--info))';
    box.style.background = 'var(--light)';
 };
 
 function setModeDay() {
-   body.style.background = 'var(--light)';
+   body.style.background = 'linear-gradient(var(--light) 80%, var(--offwhite))';
    box.style.background = 'var(--offwhite)';
 }
 
