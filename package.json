@@ -1,0 +1,45 @@
+{
+  "name": "localstorage",
+  "version": "1.0.0",
+  "description": "Local storage project & webpack inplementation.",
+  "private": "true",
+  "dependencies": {
+    "image-webpack-loader": "^4.6.0"
+  },
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "csv-loader": "^3.0.2",
+    "file-loader": "^3.0.1",
+    "style-loader": "^0.23.1",
+    "uglifyjs-webpack-plugin": "^2.1.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "xml-loader": "^1.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3ta007/login-page.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "html5",
+    "css3",
+    "jsn",
+    "localstorage",
+    "colortheme",
+    "switch",
+    "nightmode",
+    "webpack"
+  ],
+  "author": "Anna Kova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m3ta007/login-page/issues"
+  },
+  "homepage": "https://github.com/m3ta007/login-page#readme"
+}
