@@ -15,7 +15,8 @@
     "uglifyjs-webpack-plugin": "^2.1.2",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
-    "xml-loader": "^1.2.1"
+    "xml-loader": "^1.2.1",
+    "lodash": "^4.17.19"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
