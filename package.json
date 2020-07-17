@@ -5,7 +5,9 @@
   "private": "true",
   "dependencies": {
     "image-webpack-loader": "^4.6.0",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.19",
+    "minimist": "^1.2.3",
+    "kind-of": "^6.0.3"
   },
   "devDependencies": {
     "css-loader": "^2.1.0",
