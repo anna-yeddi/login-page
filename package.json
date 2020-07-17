@@ -4,7 +4,8 @@
   "description": "Local storage project & webpack inplementation.",
   "private": "true",
   "dependencies": {
-    "image-webpack-loader": "^4.6.0"
+    "image-webpack-loader": "^4.6.0",
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "css-loader": "^2.1.0",
